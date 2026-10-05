@@ -6,6 +6,42 @@
       "sourceType": "github",
       "skillPath": "skills/find-skills/SKILL.md",
       "computedHash": "913b9d37d0d54047dd65222bb8c67b2bf04e3cb87dcad1729068d7a8b2c8c396"
+    },
+    "image": {
+      "source": "smixs/visual-skills",
+      "sourceType": "github",
+      "skillPath": "image/SKILL.md",
+      "computedHash": "fba73f0a6b9ebed817fb4e653754091f8ca9774c964772af08009cdfc91ec62d"
+    },
+    "lovart-api": {
+      "source": "lovartai/lovart-skill",
+      "sourceType": "github",
+      "skillPath": "templates/SKILL.md",
+      "computedHash": "9a32c1711b4ae2563db3b9349e9668c549e5d326e5f59b7cf953d51c44f03af5"
+    },
+    "product-photography": {
+      "source": "inference-sh/skills",
+      "sourceType": "github",
+      "skillPath": "guides/photo/product-photography/SKILL.md",
+      "computedHash": "7553fa76097f15bebbeaa01e9db720c0437e0732412a6e739f6d16df21370700"
+    },
+    "product-shots-main-image": {
+      "source": "motiful/product-shots",
+      "sourceType": "github",
+      "skillPath": "skills/product-shots-main-image/SKILL.md",
+      "computedHash": "02357ff4b4be45c2e0691b448e6e4fc5e788622a6b87885cabf857e7a93dc4a7"
+    },
+    "product-shots-multi-angle": {
+      "source": "motiful/product-shots",
+      "sourceType": "github",
+      "skillPath": "skills/product-shots-multi-angle/SKILL.md",
+      "computedHash": "9164c13aef7ffd3b3b125640e9c3986532d2b374e9d720c76f60ed08120e5a02"
+    },
+    "video": {
+      "source": "smixs/visual-skills",
+      "sourceType": "github",
+      "skillPath": "video/SKILL.md",
+      "computedHash": "f43cfb62f4c6d81290f2676336edbb6104e327a7490c3defe16176c0f273a6b4"
     }
   }
 }
