@@ -1,0 +1,15 @@
+{
+  "name": "studio-jinha",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "chat": "node chat.mjs"
+  },
+  "engines": {
+    "node": ">=21.7"
+  },
+  "dependencies": {
+    "openai": "^7.28.0"
+  }
+}
